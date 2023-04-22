@@ -64,7 +64,7 @@ src/app/app.module.ts
 
 ### Commands
 
-#### run:
+#### run: 
 bash bin/env_setup && . $HOME/.nvm/nvm.sh && npm start
 
 #### install:
